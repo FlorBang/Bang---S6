@@ -24,3 +24,7 @@ print(nombre_completo)"""
 edad = int (input("¿Cuántos años tienes?"))
 
 print("El año que viene tendrás", edad + 1, "años. 1")
+
+
+
+
